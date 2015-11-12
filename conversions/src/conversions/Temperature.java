@@ -2,8 +2,10 @@ package conversions;
 
 public class Temperature {
 
-	public int F_to_C(int x){
-		return (5/9)*(x-32);
+	public double F_to_C(double x){
+		double a = 5.0/9.0; //constant
+		double b = x-32;
+		return a*b;
 	}
 	
 }
