@@ -1,0 +1,23 @@
+package conversions;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		//Intro
+		System.out.println("This is the conversions Java Application.");
+		System.out.println(" ");
+		System.out.println("Please select a conversion to make...");
+		System.out.println("1. Convert Fahrenheit to Celsius");
+		System.out.println("2. Convert Celsius to Fahrenheit");
+		
+		//Convert Fahrenheit to Celsius
+		//...
+		
+		//Convert Celsius to Fahrenheit
+		//...
+		
+	}
+
+}
